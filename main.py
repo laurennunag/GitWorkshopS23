@@ -25,7 +25,7 @@ while option != 0:
     print('15. Cookie')
     print('16. Chicken Sandwich')
     print('0. Done')
-    print('Select an option: ')
+    print('Select an option: HI ')
 
     option = int(input())
 
